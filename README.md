@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LeafYeeXYZ
 - 👀 I’m interested in painting, coding, animation.
-- 🌱 I’m currently learning psychology.
+- 🌱 I major in psychology.
 - 📫 Reach me at my [mail](xiaoyezi@leafyee.xyz)
