@@ -1,10 +1,15 @@
-## Hi there 👋
+## About Me
 
-- 😜 I major in Psychology.
-- 😊 I'm interested in watercolor.
-- 😋 I liking coding.
+- ⭐ A college student majoring in Psychology
+- 🫡 A social liberal
+- 📖 Likes manga, anime and BJD
+- 🖌️ Likes watercolor and painting
+- 😋 Likes eating strawberries, squid and matcha
+- 🧠 Interested in technology and programming
+- 🖥️ Mainly uses JavaScript, currently learning Rust
+- 🥰 Likes cute things and people
+- 😊 Committed to becoming an excellent psychological counselor
 - 📖 I'm writing my [blog](https://blog.leafyee.xyz).
-- 🍓 I love strawberry!
 - ✉️ Reach me at my [mail](mailto://xiaoyezi@leafyee.xyz).
 
 ## Some Pictures
