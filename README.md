@@ -23,7 +23,7 @@
 |![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.6&count_weight=0.4&langs_count=6)|
 |:---:|:---:|
 
-## Skills
+## Skills / Tools
 <table class="skills">
   <tr>
     <td>HTML5</td>
