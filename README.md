@@ -14,11 +14,93 @@
 
 ## Some Pictures
 
-| ![](6.jpg) | ![](5.jpg) | ![](4.jpg) |
+| ![](photos/6.jpg) | ![](photos/5.jpg) | ![](photos/4.jpg) |
 | :--------: | :--------: | :--------: |
-| ![](3.jpg) | ![](2.jpg) | ![](1.jpg) |
+| ![](photos/3.jpg) | ![](photos/2.jpg) | ![](photos/1.jpg) |
 
 ## GitHub Stats
 
 |![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)|
 |:---:|:---:|
+
+## Skills
+<table class="skills">
+  <tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>Node.js</td>
+    <td>React</td>
+    <td>Solid</td>
+  </tr>
+  <tr>
+    <td><img src="icons/html5.svg" width="50px"></td>
+    <td><img src="icons/css3.svg" width="50px"></td>
+    <td><img src="icons/javascript.svg" width="50px"></td>
+    <td><img src="icons/nodedotjs.svg" width="50px"></td>
+    <td><img src="icons/react.svg" width="50px"></td>
+    <td><img src="icons/solid.svg" width="50px"></td>
+  </tr>
+  <tr>
+    <td>Deno</td>
+    <td>Express.js</td>
+    <td>Hono.js</td>
+    <td>Next.js<br>(Learning)</td>
+    <td>Rust<br>(Learning)</td>
+    <td>Python<br>(Learning)</td>
+  </tr>
+  <tr>
+    <td><img src="icons/deno.svg" width="50px"></td>
+    <td><img src="icons/express.svg" width="50px"></td>
+    <td><img src="icons/hono.svg" width="50px"></td>
+    <td><img src="icons/nextdotjs.svg" width="50px"></td>
+    <td><img src="icons/rust.svg" width="50px"></td>
+    <td><img src="icons/python.svg" width="50px"></td>
+  </tr>
+  <tr>
+    <td>Vite</td>
+    <td>Bun</td>
+    <td>Cloudflare Pages</td>
+    <td>Cloudflare Workers</td>
+    <td>Ant Design</td>
+    <td>Vercel</td>
+  </tr>
+  <tr>
+    <td><img src="icons/vite.svg" width="50px"></td>
+    <td><img src="icons/bun.svg" width="50px"></td>
+    <td><img src="icons/cloudflarepages.svg" width="50px"></td>
+    <td><img src="icons/cloudflareworkers.svg" width="50px"></td>
+    <td><img src="icons/antdesign.svg" width="50px"></td>
+    <td><img src="icons/vercel.svg" width="50px"></td>
+  </tr>
+  <tr>
+    <td>NPM</td>
+    <td>PNPM</td>
+    <td>GitHub</td>
+    <td>Tauri<br>(Learning)</td>
+    <td>Markdown</td>
+    <td>MongoDB</td>
+  </tr>
+  <tr>
+    <td><img src="icons/npm.svg" width="50px"></td>
+    <td><img src="icons/pnpm.svg" width="50px"></td>
+    <td><img src="icons/github.svg" width="50px"></td>
+    <td><img src="icons/tauri.svg" width="50px"></td>
+    <td><img src="icons/markdown.svg" width="50px"></td>
+    <td><img src="icons/mongodb.svg" width="50px"></td>
+  </tr>
+  <tr>
+    <td>Cloudflare</td>
+    <td>Docusaurus</td>
+    <td>Hexo</td>
+    <td>TypeScript<br>(Learning)</td>
+    <td>Linux<br>(Learning)</td>
+  </tr>
+  <tr>
+    <td><img src="icons/cloudflare.svg" width="50px"></td>
+    <td><img src="icons/docusaurus.svg" width="50px"></td>
+    <td><img src="icons/hexo.svg" width="50px"></td>
+    <td><img src="icons/typescript.svg" width="50px"></td>
+    <td><img src="icons/linux.svg" width="50px"></td>
+  </tr>
+</table>
