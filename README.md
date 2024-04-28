@@ -58,7 +58,7 @@
     <td><img src="icons/python.svg" width="50px"></td>
   </tr>
   <tr>
-    <td>Vite</td>
+    <td>Vite.js</td>
     <td>Bun</td>
     <td>Cloudflare Pages</td>
     <td>Cloudflare Workers</td>
