@@ -93,7 +93,7 @@
     <td>Cloudflare</td>
     <td>Docusaurus</td>
     <td>Hexo</td>
-    <td>TypeScript<br>(Learning)</td>
+    <td>TypeScript</td>
     <td>Linux<br>(Learning)</td>
     <td>Git</td>
   </tr>
