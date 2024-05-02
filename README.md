@@ -23,7 +23,7 @@
 |![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.6&count_weight=0.4&langs_count=6)|
 |:---:|:---:|
 
-## Skills
+## Langs & Tools
 <table class="skills">
   <tr>
     <td>HTML5</td>
@@ -104,5 +104,17 @@
     <td><img src="icons/typescript.svg" width="50px"></td>
     <td><img src="icons/linux.svg" width="50px"></td>
     <td><img src="icons/git.svg" width="50px"></td>
+  </tr>
+  <tr>
+    <td>Wails<br>(Learning)</td>
+    <td>GoLang<br>(Learning)</td>
+    <td>Puppeteer</td>
+    <td>Playwright</td>
+  </tr>
+  <tr>
+    <td><img src="icons/wails.svg" width="50px"></td>
+    <td><img src="icons/golang.svg" width="50px"></td>
+    <td><img src="icons/puppeteer.svg" width="50px"></td>
+    <td><img src="icons/playwright.svg" width="50px"></td>
   </tr>
 </table>
