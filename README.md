@@ -113,7 +113,7 @@
   </tr>
   <tr>
     <td><img src="icons/wails.svg" width="50px"></td>
-    <td><img src="icons/golang.svg" width="50px"></td>
+    <td><img src="icons/go.svg" width="50px"></td>
     <td><img src="icons/puppeteer.svg" width="50px"></td>
     <td><img src="icons/playwright.svg" width="50px"></td>
   </tr>
