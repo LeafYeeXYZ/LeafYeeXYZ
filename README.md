@@ -20,7 +20,7 @@
 
 ## GitHub Stats
 
-|![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.6&count_weight=0.4&langs_count=6)|
+|![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=5)|
 |:---:|:---:|
 
 ## Langs & Tools
@@ -58,7 +58,7 @@
     <td><img src="icons/python.svg" width="50px"></td>
   </tr>
   <tr>
-    <td>Vite</td>
+    <td>Vite.js</td>
     <td>Bun</td>
     <td>Cloudflare Pages</td>
     <td>Cloudflare Workers</td>
@@ -93,7 +93,7 @@
     <td>Cloudflare</td>
     <td>Docusaurus</td>
     <td>Hexo</td>
-    <td>TypeScript<br>(Learning)</td>
+    <td>TypeScript</td>
     <td>Linux<br>(Learning)</td>
     <td>Git</td>
   </tr>
