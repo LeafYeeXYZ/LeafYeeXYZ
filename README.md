@@ -106,8 +106,8 @@
     <td><img src="icons/git.svg" width="50px"></td>
   </tr>
   <tr>
-    <td>Wails<br>(Learning)</td>
-    <td>GoLang<br>(Learning)</td>
+    <td>Wails</td>
+    <td>GoLang</td>
     <td>Puppeteer</td>
     <td>Playwright</td>
   </tr>
