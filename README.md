@@ -14,8 +14,9 @@
 
 ## Some Pictures
 
-| ![](photos/5.png) | ![](photos/1.png) | ![](photos/2.png) | ![](photos/3.jpg) |
-| :--------: | :--------: | :--------: | :--------: |
+| ![](photos/5.png) | ![](photos/1.png) |
+| :--------: | :--------: |
+| ![](photos/2.png) | ![](photos/3.jpg) |
 
 ## GitHub Stats
 
