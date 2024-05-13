@@ -1,16 +1,16 @@
 ## About Me
 
-- ⭐ A college student majoring in Psychology
-- 🫡 A social liberal
-- 📖 Likes manga, anime and BJD
-- 🖌️ Likes watercolor and painting
-- 😋 Likes eating strawberries, squid and matcha
-- 🧠 Interested in technology and programming
-- 🖥️ Mainly uses JavaScript, currently learning Rust
-- 🥰 Likes cute things and people
-- 😊 Committed to becoming an excellent psychological counselor
-- 📖 I'm writing my [blog](https://blog.leafyee.xyz).
-- ✉️ Reach me at my [mail](mailto://xiaoyezi@leafyee.xyz).
+- ⭐ 一个心理学专业的大学生 / A college student majoring in Psychology
+- 🫡 一个社会自由主义者 / A social liberal
+- 📖 喜欢漫画, 动漫, BJD / Likes manga, anime and BJD
+- 🖌️ 喜欢画画 / Likes watercolor and painting
+- 😋 喜欢吃草莓, 鱿鱼, 抹茶 / Likes eating strawberries, squid and matcha
+- 🧠 喜欢编程 / Interested in technology and programming
+- 🖥️ 主要用 JS, TS, Go, Rust / Mainly uses JavaScript and TypeScript, currently learning Go and Rust
+- 🥰 喜欢任何可爱的人事物 / Likes cute things and people
+- 😊 致力于称为一个有帮助的心理咨询师 / Committed to becoming an excellent psychological counselor
+- 📖 我的[博客](https://blog.leafyee.xyz) / I'm writing my [blog](https://blog.leafyee.xyz).
+- ✉️ 我的[邮箱](mailto://xiaoyezi@leafyee.xyz) / Reach me at my [mail](mailto://xiaoyezi@leafyee.xyz).
 
 ## Some Pictures
 
