@@ -32,6 +32,7 @@
     <td>Node.js</td>
     <td>React</td>
     <td>Solid</td>
+    <td>Wails</td>
   </tr>
   <tr>
     <td><img src="icons/html5.svg" width="50px"></td>
@@ -40,6 +41,7 @@
     <td><img src="icons/nodedotjs.svg" width="50px"></td>
     <td><img src="icons/react.svg" width="50px"></td>
     <td><img src="icons/solid.svg" width="50px"></td>
+    <td><img src="icons/wails.svg" width="50px"></td>
   </tr>
   <tr>
     <td>Deno</td>
@@ -48,6 +50,7 @@
     <td>Next.js<br>(Learning)</td>
     <td>Rust<br>(Learning)</td>
     <td>Python<br>(Learning)</td>
+    <td>GoLang</td>
   </tr>
   <tr>
     <td><img src="icons/deno.svg" width="50px"></td>
@@ -56,6 +59,7 @@
     <td><img src="icons/nextdotjs.svg" width="50px"></td>
     <td><img src="icons/rust.svg" width="50px"></td>
     <td><img src="icons/python.svg" width="50px"></td>
+    <td><img src="icons/go.svg" width="50px"></td>
   </tr>
   <tr>
     <td>Vite.js</td>
@@ -64,6 +68,7 @@
     <td>Cloudflare Workers</td>
     <td>Ant Design</td>
     <td>Vercel</td>
+    <td>Puppeteer</td>
   </tr>
   <tr>
     <td><img src="icons/vite.svg" width="50px"></td>
@@ -72,6 +77,7 @@
     <td><img src="icons/cloudflareworkers.svg" width="50px"></td>
     <td><img src="icons/antdesign.svg" width="50px"></td>
     <td><img src="icons/vercel.svg" width="50px"></td>
+    <td><img src="icons/puppeteer.svg" width="50px"></td>
   </tr>
   <tr>
     <td>NPM</td>
@@ -80,6 +86,7 @@
     <td>Tauri<br>(Learning)</td>
     <td>Markdown</td>
     <td>MongoDB</td>
+    <td>Playwright</td>
   </tr>
   <tr>
     <td><img src="icons/npm.svg" width="50px"></td>
@@ -88,6 +95,7 @@
     <td><img src="icons/tauri.svg" width="50px"></td>
     <td><img src="icons/markdown.svg" width="50px"></td>
     <td><img src="icons/mongodb.svg" width="50px"></td>
+    <td><img src="icons/playwright.svg" width="50px"></td>
   </tr>
   <tr>
     <td>Cloudflare</td>
@@ -104,17 +112,5 @@
     <td><img src="icons/typescript.svg" width="50px"></td>
     <td><img src="icons/linux.svg" width="50px"></td>
     <td><img src="icons/git.svg" width="50px"></td>
-  </tr>
-  <tr>
-    <td>Wails</td>
-    <td>GoLang</td>
-    <td>Puppeteer</td>
-    <td>Playwright</td>
-  </tr>
-  <tr>
-    <td><img src="icons/wails.svg" width="50px"></td>
-    <td><img src="icons/go.svg" width="50px"></td>
-    <td><img src="icons/puppeteer.svg" width="50px"></td>
-    <td><img src="icons/playwright.svg" width="50px"></td>
   </tr>
 </table>
