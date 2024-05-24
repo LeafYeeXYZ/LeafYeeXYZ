@@ -12,16 +12,17 @@
 - 📖 我的[博客](https://blog.leafyee.xyz) / I'm writing my [blog](https://blog.leafyee.xyz).
 - ✉️ 我的[邮箱](mailto://xiaoyezi@leafyee.xyz) / Reach me at my [mail](mailto://xiaoyezi@leafyee.xyz).
 
+## GitHub Stats
+
+![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=8)|
+
 ## Some Pictures
 
 | ![](photos/5.png) | ![](photos/1.png) |
 | :--------: | :--------: |
 | ![](photos/2.png) | ![](photos/3.jpg) |
-
-## GitHub Stats
-
-|![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)|
-|:---:|:---:|
 
 ## Langs & Tools
 <table class="skills">
