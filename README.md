@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 
-|![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=8)|
+|![](https://o0-0o.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|![](https://o0-0o.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)|
 |:---:|:---:|
 
 ## Some Pictures
