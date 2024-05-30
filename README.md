@@ -104,6 +104,7 @@
     <td>TypeScript</td>
     <td>Linux<br>(Learning)</td>
     <td>Git</td>
+    <td>Tailwind CSS<br>(Learning)</td>
   </tr>
   <tr>
     <td><img src="icons/cloudflare.svg" width="50px"></td>
@@ -112,5 +113,6 @@
     <td><img src="icons/typescript.svg" width="50px"></td>
     <td><img src="icons/linux.svg" width="50px"></td>
     <td><img src="icons/git.svg" width="50px"></td>
+    <td><img src="icons/tailwindcss.svg" width="50px"></td>
   </tr>
 </table>
