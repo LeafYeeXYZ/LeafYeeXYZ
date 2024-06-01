@@ -104,7 +104,7 @@
     <td>TypeScript</td>
     <td>Linux<br>(Learning)</td>
     <td>Git</td>
-    <td>Tailwind CSS<br>(Learning)</td>
+    <td>Tailwind CSS</td>
   </tr>
   <tr>
     <td><img src="icons/cloudflare.svg" width="50px"></td>
