@@ -19,9 +19,16 @@
 
 ## Some Pictures
 
-| ![](photos/5.png) | ![](photos/3.jpg) |
-| :--------: | :--------: |
-| ![](photos/2.png) | ![](photos/1.png) |
+<table>
+  <tr>
+    <td><img src="photos/5.png" width="300px"></td>
+    <td><img src="photos/3.jpg" width="300px"></td>
+  </tr>
+  <tr>
+    <td><img src="photos/2.png" width="300px"></td>
+    <td><img src="photos/1.png" width="300px"></td>
+  </tr>
+</table>
 
 ## Langs & Tools
 <table class="skills">
