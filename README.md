@@ -21,12 +21,14 @@
 
 <table>
   <tr>
-    <td><img src="photos/5.png" width="300px"></td>
-    <td><img src="photos/3.jpg" width="300px"></td>
+    <td><img src="photos/5.png" width="200px"></td>
+    <td><img src="photos/3.jpg" width="200px"></td>
+    <td><img src="photos/4.jpg" width="200px"></td>
   </tr>
   <tr>
-    <td><img src="photos/2.png" width="300px"></td>
-    <td><img src="photos/1.png" width="300px"></td>
+    <td><img src="photos/2.png" width="200px"></td>
+    <td><img src="photos/1.png" width="200px"></td>
+    <td><img src="photos/6.jpg" width="200px"></td>
   </tr>
 </table>
 
