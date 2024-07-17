@@ -14,8 +14,9 @@
 
 ## GitHub Stats
 
-|![](https://github.leafyee.xyz/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=8)|
-|:---:|:---:|
+![](https://github.leafyee.xyz/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
+
+![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ## Some Pictures
 
