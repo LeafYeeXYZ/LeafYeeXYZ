@@ -16,7 +16,7 @@
 
 ![](https://github.leafyee.xyz/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
 
-![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.3&count_weight=0.7&langs_count=10)
+![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)
 
 ## Some Pictures
 
