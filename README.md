@@ -57,7 +57,7 @@
     <td>Deno</td>
     <td>Express.js</td>
     <td>Hono.js</td>
-    <td>Next.js<br>(Learning)</td>
+    <td>Next.js</td>
     <td>Rust<br>(Learning)</td>
     <td>Python<br>(Learning)</td>
     <td>GoLang</td>
