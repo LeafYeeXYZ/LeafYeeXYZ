@@ -125,4 +125,12 @@
     <td><img src="icons/git.svg" width="50px"></td>
     <td><img src="icons/tailwindcss.svg" width="50px"></td>
   </tr>
+  <tr>
+    <td>Electron<br>(Learning)</td>
+    <td>Supabase</td>
+  </tr>
+  <tr>
+    <td><img src="icons/electron.svg" width="50px"></td>
+    <td><img src="icons/supabase.svg" width="50px"></td>
+  </tr>
 </table>
