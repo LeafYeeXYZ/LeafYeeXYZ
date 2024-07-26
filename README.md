@@ -128,9 +128,11 @@
   <tr>
     <td>Electron<br>(Learning)</td>
     <td>Supabase</td>
+    <td>PostgreSQL</td>
   </tr>
   <tr>
     <td><img src="icons/electron.svg" width="50px"></td>
     <td><img src="icons/supabase.svg" width="50px"></td>
+    <td><img src="icons/postgresql.svg" width="50px"></td>
   </tr>
 </table>
