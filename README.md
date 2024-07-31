@@ -162,7 +162,7 @@
     <td>Electron<br>(Learning)</td>
     <td>Supabase</td>
     <td>PostgreSQL</td>
-    <td>Docker<br>(Learning)</td>
+    <td>Docker</td>
   </tr>
   <tr>
     <td><img src="icons/electron.svg" width="50px"></td>
