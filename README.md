@@ -1,24 +1,57 @@
 ## About Me
 
-- ⭐ 一个心理学专业的大学生 / A college student majoring in Psychology
-- 🫡 一个社会自由主义者 / A social liberal
-- 📖 喜欢漫画, 动漫, BJD / Likes manga, anime and BJD
-- 🖌️ 喜欢画画 / Likes watercolor and painting
-- 😋 喜欢吃草莓, 鱿鱼, 抹茶 / Likes eating strawberries, squid and matcha
-- 🧠 喜欢编程 / Interested in technology and programming
-- 🖥️ 主要用 JS, TS, Go, Rust / Mainly uses JavaScript and TypeScript, currently learning Go and Rust
-- 🥰 喜欢任何可爱的人事物 / Likes cute things and people
-- 😊 致力于称为一个有帮助的心理咨询师 / Committed to becoming an excellent psychological counselor
-- 📖 我的[博客](https://blog.leafyee.xyz) / I'm writing my [blog](https://blog.leafyee.xyz).
-- ✉️ 我的[邮箱](mailto://xiaoyezi@leafyee.xyz) / Reach me at my [mail](mailto://xiaoyezi@leafyee.xyz).
+<table>
+  <tr>
+    <td>坐标北京师范大学</td>
+    <td>Location: Beijing Normal University, Beijing, China</td>
+  <tr>
+    <td>我是一个心理学专业的大学生</td>
+    <td>An undergraduate majoring in Psychology</td>
+  </tr>
+  <tr>
+    <td>我是一个社会自由主义者</td>
+    <td>A social liberal</td>
+  </tr>
+  <tr>
+    <td>我喜欢漫画, 动漫, BJD</td>
+    <td>I like manga, anime and BJD</td>
+  </tr>
+  <tr>
+    <td>我喜欢画画</td>
+    <td>I like watercolor and painting</td>
+  </tr>
+  <tr>
+    <td>我喜欢吃草莓, 鱿鱼, 抹茶</td>
+    <td>I likes eating strawberries, squid and matcha</td>
+  </tr>
+  <tr>
+    <td>我喜欢编程</td>
+    <td>I'm interested in technology and programming</td>
+  </tr>
+  <tr>
+    <td>主要用 JS, TS, Go</td>
+    <td>Mainly uses TypeScript and Go</td>
+  </tr>
+  <tr>
+    <td>我喜欢任何可爱的人事物</td>
+    <td>I likes cute things and people</td>
+  </tr>
+  <tr>
+    <td>我致力于称为一个有帮助的心理咨询师</td>
+    <td>I commit to becoming an excellent psychological counselor</td>
+  </tr>
+  <tr>
+    <td>我的邮箱: xiaoyezi@leafyee.xyz</td>
+    <td>Reach me at my mail: xiaoyezi@leafyee.xyz</td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
-![](https://github.leafyee.xyz/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
+|![](https://github.leafyee.xyz/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)|
+|:---:|:---:|
 
-![](https://github.leafyee.xyz/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)
-
-## Some Pictures
+## Some of My Works
 
 <table>
   <tr>
@@ -33,7 +66,7 @@
   </tr>
 </table>
 
-## Langs & Tools
+## My Langs & Tools
 <table class="skills">
   <tr>
     <td>HTML5</td>
@@ -129,7 +162,7 @@
     <td>Electron<br>(Learning)</td>
     <td>Supabase</td>
     <td>PostgreSQL</td>
-    <td>Docker</td>
+    <td>Docker<br>(Learning)</td>
   </tr>
   <tr>
     <td><img src="icons/electron.svg" width="50px"></td>
