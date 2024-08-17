@@ -147,7 +147,7 @@
     <td>TypeScript</td>
     <td>Linux<br>(Learning)</td>
     <td>Git</td>
-    <td>Tailwind CSS</td>
+    <td>TailwindCSS</td>
   </tr>
   <tr>
     <td><img src="icons/cloudflare.svg" width="50px"></td>
@@ -159,7 +159,7 @@
     <td><img src="icons/tailwindcss.svg" width="50px"></td>
   </tr>
   <tr>
-    <td>Electron<br>(Learning)</td>
+    <td>Electron</td>
     <td>Supabase</td>
     <td>PostgreSQL</td>
     <td>Docker</td>
