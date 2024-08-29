@@ -186,15 +186,6 @@
   </tr>
 </table>
 
-## Some of My Projects
-
-|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=BNUCourseGetter&show_owner=true)|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=PainterLeaf&show_owner=true)|
-|:---:|:---:|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=FileBox&show_owner=true)|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=MailBox&show_owner=true)|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=MyAPIs&show_owner=true)|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=CounselorLeaf&show_owner=true)|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=MarkdownPaper&show_owner=true)|![](https://github-readme-stats.vercel.app/api/pin/?username=LeafYeeXYZ&repo=EasyPaper&show_owner=true)|
-
-
 ## Some of My Works
 
 <table>
