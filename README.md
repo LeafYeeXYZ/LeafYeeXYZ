@@ -205,3 +205,9 @@
 
 |![](https://github-readme-stats.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=6)|
 |:---:|:---:|
+
+## Sponsor Me
+
+|爱发电 `afdian`|微信 `WeChat Pay`|支付宝 `Alipay`|PayPal|
+|:---:|:---:|:---:|:---:|
+|![](sponsor/afdian.jpg)|![](sponsor/wxp.jpg)|![](sponsor/alipay.jpeg)|[https://www.paypal.com/paypalme/OliverXYZ](https://www.paypal.com/paypalme/OliverXYZ)|
