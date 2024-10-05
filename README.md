@@ -101,7 +101,7 @@
   <tr>
     <td>Electron</td>
     <td>Wails</td>
-    <td>Tauri<br>(Learning)</td>
+    <td>Tauri</td>
   </tr>
   <tr>
     <td><img src="icons/electron.svg" width="50px"></td>
@@ -113,13 +113,11 @@
 ### Serverless
 <table>
   <tr>
-    <td>Cloudflare</td>
     <td>Cloudflare Workers</td>
     <td>Cloudflare Pages</td>
     <td>Vercel</td>
   </tr>
   <tr>
-    <td><img src="icons/cloudflare.svg" width="50px"></td>
     <td><img src="icons/cloudflareworkers.svg" width="50px"></td>
     <td><img src="icons/cloudflarepages.svg" width="50px"></td>
     <td><img src="icons/vercel.svg" width="50px"></td>
@@ -159,7 +157,6 @@
     <td>GitHub</td>
     <td>NPM</td>
     <td>Vite.js</td>
-    <td>Docusaurus</td>
     <td>Hexo</td>
     <td>Docker</td>
   </tr>
@@ -168,7 +165,6 @@
     <td><img src="icons/github.svg" width="50px"></td>
     <td><img src="icons/npm.svg" width="50px"></td>
     <td><img src="icons/vite.svg" width="50px"></td>
-    <td><img src="icons/docusaurus.svg" width="50px"></td>
     <td><img src="icons/hexo.svg" width="50px"></td>
     <td><img src="icons/docker.svg" width="50px"></td>
   </tr>
