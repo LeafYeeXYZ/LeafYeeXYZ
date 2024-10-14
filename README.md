@@ -192,6 +192,6 @@
 
 ## Sponsor Me
 
-|爱发电 `afdian`|微信 `WeChat Pay`|支付宝 `Alipay`|PayPal|
-|:---:|:---:|:---:|:---:|
-|![](sponsor/afdian.jpg)|![](sponsor/wxp.jpg)|![](sponsor/alipay.jpeg)|[https://www.paypal.com/paypalme/OliverXYZ](https://www.paypal.com/paypalme/OliverXYZ)|
+|微信 `WeChat Pay`|支付宝 `Alipay`|PayPal|
+|:---:|:---:|:---:|
+|![](sponsor/wxp.jpg)|![](sponsor/alipay.jpeg)|[https://www.paypal.com/paypalme/OliverXYZ](https://www.paypal.com/paypalme/OliverXYZ)|
