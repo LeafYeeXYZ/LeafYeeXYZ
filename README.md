@@ -67,12 +67,14 @@
     <td>Solid</td>
     <td>Ant Design</td>
     <td>Tailwind CSS</td>
+    <td>Astro</td>
   </tr>
   <tr>
     <td><img src="icons/react.svg" width="50px"></td>
     <td><img src="icons/solid.svg" width="50px"></td>
     <td><img src="icons/antdesign.svg" width="50px"></td>
     <td><img src="icons/tailwindcss.svg" width="50px"></td>
+    <td><img src="icons/astro.svg" width="50px"></td>
   </tr>
 </table>
 
