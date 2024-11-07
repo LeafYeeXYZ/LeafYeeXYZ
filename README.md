@@ -41,6 +41,7 @@
   <tr>
     <td>JavaScript</td>
     <td>TypeScript</td>
+    <td>AssemblyScript</td>
     <td>Go</td>
     <td>Rust<br>(Learning)</td>
     <td>Python<br>(Learning)</td>
@@ -51,6 +52,7 @@
   <tr>
     <td><img src="icons/javascript.svg" width="50px"></td>
     <td><img src="icons/typescript.svg" width="50px"></td>
+    <td><img src="icons/assemblyscript.svg" width="50px"></td>
     <td><img src="icons/go.svg" width="50px"></td>
     <td><img src="icons/rust.svg" width="50px"></td>
     <td><img src="icons/python.svg" width="50px"></td>
