@@ -43,22 +43,22 @@
     <td>TypeScript</td>
     <td>AssemblyScript</td>
     <td>Go</td>
-    <td>Rust<br>(Learning)</td>
-    <td>Python<br>(Learning)</td>
     <td>HTML5</td>
     <td>CSS3</td>
     <td>Markdown</td>
+    <td>Rust<br>(Learning)</td>
+    <td>Python<br>(Learning)</td>
   </tr>
   <tr>
     <td><img src="icons/javascript.svg" width="50px"></td>
     <td><img src="icons/typescript.svg" width="50px"></td>
     <td><img src="icons/assemblyscript.svg" width="50px"></td>
     <td><img src="icons/go.svg" width="50px"></td>
-    <td><img src="icons/rust.svg" width="50px"></td>
-    <td><img src="icons/python.svg" width="50px"></td>
     <td><img src="icons/html5.svg" width="50px"></td>
     <td><img src="icons/css3.svg" width="50px"></td>
     <td><img src="icons/markdown.svg" width="50px"></td>
+    <td><img src="icons/rust.svg" width="50px"></td>
+    <td><img src="icons/python.svg" width="50px"></td>
   </tr>
 </table>
 
@@ -69,14 +69,12 @@
     <td>Solid</td>
     <td>Ant Design</td>
     <td>Tailwind CSS</td>
-    <td>Astro</td>
   </tr>
   <tr>
     <td><img src="icons/react.svg" width="50px"></td>
     <td><img src="icons/solid.svg" width="50px"></td>
     <td><img src="icons/antdesign.svg" width="50px"></td>
     <td><img src="icons/tailwindcss.svg" width="50px"></td>
-    <td><img src="icons/astro.svg" width="50px"></td>
   </tr>
 </table>
 
@@ -86,7 +84,6 @@
     <td>Node.js</td>
     <td>Deno</td>
     <td>Bun</td>
-    <td>Express.js</td>
     <td>Hono.js</td>
     <td>Next.js</td>
   </tr>
@@ -94,7 +91,6 @@
     <td><img src="icons/nodedotjs.svg" width="50px"></td>
     <td><img src="icons/deno.svg" width="50px"></td>
     <td><img src="icons/bun.svg" width="50px"></td>
-    <td><img src="icons/express.svg" width="50px"></td>
     <td><img src="icons/hono.svg" width="50px"></td>
     <td><img src="icons/nextdotjs.svg" width="50px"></td>
   </tr>
@@ -142,7 +138,7 @@
   </tr>
 </table>
 
-### Automation & Testing
+### Automation
 <table>
   <tr>
     <td>Puppeteer</td>
