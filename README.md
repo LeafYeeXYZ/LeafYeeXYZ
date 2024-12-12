@@ -187,7 +187,7 @@
 
 ## GitHub Stats
 
-|![](https://github-readme-stats.vercel.app/api?username=LeafYeeXYZ&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=5)|
+|![](https://github-readme-stats.vercel.app/api?username=LeafYeeXYZ&rank_icon=github&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=5)|
 |:---:|:---:|
 
 ## Sponsor Me
