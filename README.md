@@ -2,7 +2,7 @@
 
 - I am an undergraduate student majoring in psychology at Beijing Normal University
 - He/Him, LGBT🌈
-- I'm passionate about programming and work as a full-stack developer. I use `TypeScript` and `Go` on a daily basis. I'm also familiar with `JavaScript` and `Python`, and am currently struggling to learn `Rust`. You can find more on [my Github](https://github.com/LeafYeeXYZ).
+- I'm passionate about programming and work as a full-stack developer. I mostly work with `TypeScript` and `Go`. You can find more on [my Github](https://github.com/LeafYeeXYZ).
 - My life motto is **Unity of Knowledge and Action**.
 - I love reading manga. My favorite art styles are from the Japanese manga artist Kii Kanna and the Chinese manga artist Liang A Zha!
 - I enjoy drawing. You can check out my works in [my gallery](https://blog.leafyee.xyz/masonry).
@@ -25,7 +25,7 @@
 - 玩BJD, 可以在[我的相册](https://blog.leafyee.xyz/masonry)里看到我的娃们~
 - 喜欢说走就走的旅行, 不喜欢过度计划的行程, 讨厌人太多的地方, 同时坚决拒绝"特种兵式旅行"
 - 喜欢国风/电子音乐, 最喜欢的音乐人/音乐企划有 `忘川风华录`、`ChiliChill`、`小野道ono` 等
-- 爱好编程, 从事全栈开发, 日常使用 `TypeScript` 和 `Go` 语言, 会用 `JavaScript` 和 `Python`, 正在艰难学习 `Rust`, 详见[我的Github](https://github.com/LeafYeeXYZ)
+- 爱好编程, 从事全栈开发, 日常使用 `TypeScript` 和 `Go` 语言, 详见[我的Github](https://github.com/LeafYeeXYZ)
 - 人生信条是**知行合一**
 - 虽然不社恐也不怕生, 但是一个内向的人, 不喜欢去一些很多人的社交活动
 - 梦想是成为一个优秀的心理咨询师, 帮到更多的人!
@@ -41,132 +41,96 @@
   <tr>
     <td>JavaScript</td>
     <td>TypeScript</td>
-    <td>AssemblyScript</td>
     <td>Go</td>
+    <td>SQL</td>
     <td>HTML5</td>
     <td>CSS3</td>
-    <td>Markdown</td>
-    <td>Rust<br>(Learning)</td>
-    <td>Python<br>(Learning)</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><img src="icons/javascript.svg" width="50px"></td>
     <td><img src="icons/typescript.svg" width="50px"></td>
-    <td><img src="icons/assemblyscript.svg" width="50px"></td>
     <td><img src="icons/go.svg" width="50px"></td>
+    <td><img src="icons/sqlite.svg" width="50px"></td>
     <td><img src="icons/html5.svg" width="50px"></td>
     <td><img src="icons/css3.svg" width="50px"></td>
-    <td><img src="icons/markdown.svg" width="50px"></td>
-    <td><img src="icons/rust.svg" width="50px"></td>
     <td><img src="icons/python.svg" width="50px"></td>
   </tr>
 </table>
 
-### Frontend
+### Frameworks
 <table>
   <tr>
     <td>React</td>
     <td>Solid</td>
-    <td>Ant Design</td>
-    <td>Tailwind CSS</td>
+    <td>Electron</td>
+    <td>Wails</td>
+    <td>Tauri</td>
+    <td>Next.js</td>
+    <td>Hono.js</td>
+    <td>Hexo</td>
   </tr>
   <tr>
     <td><img src="icons/react.svg" width="50px"></td>
     <td><img src="icons/solid.svg" width="50px"></td>
+    <td><img src="icons/electron.svg" width="50px"></td>
+    <td><img src="icons/wails.svg" width="50px"></td>
+    <td><img src="icons/tauri.svg" width="50px"></td>
+    <td><img src="icons/nextdotjs.svg" width="50px"></td>
+    <td><img src="icons/hono.svg" width="50px"></td>
+    <td><img src="icons/hexo.svg" width="50px"></td>
+  </tr>
+</table>
+
+### Libraries
+<table>
+  <tr>
+    <td>Vite.js</td>
+    <td>Ant Design</td>
+    <td>Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><img src="icons/vite.svg" width="50px"></td>
     <td><img src="icons/antdesign.svg" width="50px"></td>
     <td><img src="icons/tailwindcss.svg" width="50px"></td>
   </tr>
 </table>
 
-### Backend & Fullstack
+### JS Runtimes
 <table>
   <tr>
     <td>Node.js</td>
     <td>Deno</td>
     <td>Bun</td>
-    <td>Hono.js</td>
-    <td>Next.js</td>
+    <td>Cloudflare Workers</td>
+    <td>Vercel</td>
   </tr>
   <tr>
     <td><img src="icons/nodedotjs.svg" width="50px"></td>
     <td><img src="icons/deno.svg" width="50px"></td>
     <td><img src="icons/bun.svg" width="50px"></td>
-    <td><img src="icons/hono.svg" width="50px"></td>
-    <td><img src="icons/nextdotjs.svg" width="50px"></td>
-  </tr>
-</table>
-
-### Desktop & Mobile
-<table>
-  <tr>
-    <td>Electron</td>
-    <td>Wails</td>
-    <td>Tauri</td>
-  </tr>
-  <tr>
-    <td><img src="icons/electron.svg" width="50px"></td>
-    <td><img src="icons/wails.svg" width="50px"></td>
-    <td><img src="icons/tauri.svg" width="50px"></td>
-  </tr>
-</table>
-
-### Serverless
-<table>
-  <tr>
-    <td>Cloudflare Workers</td>
-    <td>Cloudflare Pages</td>
-    <td>Vercel</td>
-  </tr>
-  <tr>
     <td><img src="icons/cloudflareworkers.svg" width="50px"></td>
-    <td><img src="icons/cloudflarepages.svg" width="50px"></td>
     <td><img src="icons/vercel.svg" width="50px"></td>
   </tr>
-</table> 
-
-### Database
-<table>
-  <tr>
-    <td>MongoDB</td>
-    <td>PostgreSQL</td>
-    <td>Supabase</td>
-  </tr>
-  <tr>
-    <td><img src="icons/mongodb.svg" width="50px"></td>
-    <td><img src="icons/postgresql.svg" width="50px"></td>
-    <td><img src="icons/supabase.svg" width="50px"></td>
-  </tr>
 </table>
 
-### Automation
-<table>
-  <tr>
-    <td>Puppeteer</td>
-    <td>Playwright</td>
-  </tr>
-  <tr>
-    <td><img src="icons/puppeteer.svg" width="50px"></td>
-    <td><img src="icons/playwright.svg" width="50px"></td>
-  </tr>
-</table>
-
-### Other Tools
+### Others
 <table>
   <tr>
     <td>Git</td>
-    <td>GitHub</td>
-    <td>NPM</td>
-    <td>Vite.js</td>
-    <td>Hexo</td>
     <td>Docker</td>
+    <td>MongoDB</td>
+    <td>Puppeteer</td>
+    <td>Supabase</td>
+    <td>Playwright</td>
   </tr>
   <tr>
     <td><img src="icons/git.svg" width="50px"></td>
-    <td><img src="icons/github.svg" width="50px"></td>
-    <td><img src="icons/npm.svg" width="50px"></td>
-    <td><img src="icons/vite.svg" width="50px"></td>
-    <td><img src="icons/hexo.svg" width="50px"></td>
     <td><img src="icons/docker.svg" width="50px"></td>
+    <td><img src="icons/mongodb.svg" width="50px"></td>
+    <td><img src="icons/puppeteer.svg" width="50px"></td>
+    <td><img src="icons/supabase.svg" width="50px"></td>
+    <td><img src="icons/playwright.svg" width="50px"></td>
   </tr>
 </table>
 
@@ -187,7 +151,7 @@
 
 ## GitHub Stats
 
-|![](https://github-readme-stats.vercel.app/api?username=LeafYeeXYZ&rank_icon=github&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.5&count_weight=0.5&langs_count=5)|
+|![](https://github-readme-stats.vercel.app/api?username=LeafYeeXYZ&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafYeeXYZ&size_weight=0.50&count_weight=0.50&langs_count=5)|
 |:---:|:---:|
 
 ## Sponsor Me
