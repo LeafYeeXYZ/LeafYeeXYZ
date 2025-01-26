@@ -42,19 +42,19 @@
     <td>JavaScript</td>
     <td>TypeScript</td>
     <td>Go</td>
+    <td>Python</td>
     <td>SQL</td>
     <td>HTML5</td>
     <td>CSS3</td>
-    <td>Python</td>
   </tr>
   <tr>
     <td><img src="icons/javascript.svg" width="50px"></td>
     <td><img src="icons/typescript.svg" width="50px"></td>
     <td><img src="icons/go.svg" width="50px"></td>
+    <td><img src="icons/python.svg" width="50px"></td>
     <td><img src="icons/sqlite.svg" width="50px"></td>
     <td><img src="icons/html5.svg" width="50px"></td>
     <td><img src="icons/css3.svg" width="50px"></td>
-    <td><img src="icons/python.svg" width="50px"></td>
   </tr>
 </table>
 
